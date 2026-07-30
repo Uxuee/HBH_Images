@@ -62,7 +62,7 @@ Schematic illustration of black-hole ringdown. After a black hole is perturbed, 
 
 ## Credit
 
-Ariadna Uxue Palomino Ylla / Nagoya University
+Ariadna Uxue Palomino Ylla 
 
 ## License
 
